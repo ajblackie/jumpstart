@@ -145,3 +145,9 @@ footer p {
   max-width: 42rem;
   margin: auto;
 }
+
+@media only screen and (max-width: 750px) {
+  .jumbotron h1 {
+    font-size: 5.7rem;
+  }
+}
